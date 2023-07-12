@@ -24,9 +24,9 @@ body{
 
 #button{
     color: aliceblue;
-    background-color: rgb(211, 100, 100);
+    background-color: rgb(245, 98, 98);
     border-radius: 5px;
-    padding: 7px;
+    padding: 7px 20px;
 }
 .img{
     width: 225px;
@@ -92,10 +92,16 @@ body{
     
     
 }
+
+.paragh{
+    display: flex;
+
+}
 .communicate-para{
     padding-bottom: 50px;
     padding-left: 10px;
-    margin-left: 30px;
+    margin-left: 60px;
+   
 
 }
 
@@ -104,7 +110,7 @@ body{
 
 
 #colr{
-    color: rgb(236, 118, 118);
+    color: rgb(245, 241, 241);
 }
 
 #btn{
